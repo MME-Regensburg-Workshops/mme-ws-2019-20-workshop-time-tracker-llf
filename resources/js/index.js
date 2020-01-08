@@ -19,6 +19,9 @@ FORM_VIEW.js    Formular für Anlegen neuem Task
 
 
 function init() {
+
+  
+
 }
 
 init();
